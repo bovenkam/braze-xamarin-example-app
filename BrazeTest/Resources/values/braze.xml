@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string name="com_braze_api_key">27954573-121c-45ff-99f3-156045454166</string>
+    <string translatable="false" name="com_braze_custom_endpoint">sondheim.braze.com</string>
+    <string-array name="com_braze_internal_sdk_metadata">
+      <item>XAMARIN</item>
+      <item>NUGET</item>
+    </string-array>
+    </resources>
