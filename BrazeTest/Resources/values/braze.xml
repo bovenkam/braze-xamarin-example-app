@@ -2,6 +2,8 @@
     <resources>
     <string name="com_braze_api_key">27954573-121c-45ff-99f3-156045454166</string>
     <string translatable="false" name="com_braze_custom_endpoint">sondheim.braze.com</string>
+    <bool translatable="false" name="com_braze_firebase_cloud_messaging_registration_enabled">true</bool>
+<string translatable="false" name="com_braze_firebase_cloud_messaging_sender_id">1071688588006</string>
     <string-array name="com_braze_internal_sdk_metadata">
       <item>XAMARIN</item>
       <item>NUGET</item>
